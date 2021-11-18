@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://yutaakiyama.github.io/csb-wcb7z/static/js/main.cdd7d0b4.chunk.js",
+    "main.js.map": "https://yutaakiyama.github.io/csb-wcb7z/static/js/main.cdd7d0b4.chunk.js.map",
+    "runtime-main.js": "https://yutaakiyama.github.io/csb-wcb7z/static/js/runtime-main.f46456de.js",
+    "runtime-main.js.map": "https://yutaakiyama.github.io/csb-wcb7z/static/js/runtime-main.f46456de.js.map",
+    "static/js/2.dbecf9f3.chunk.js": "https://yutaakiyama.github.io/csb-wcb7z/static/js/2.dbecf9f3.chunk.js",
+    "static/js/2.dbecf9f3.chunk.js.map": "https://yutaakiyama.github.io/csb-wcb7z/static/js/2.dbecf9f3.chunk.js.map",
+    "index.html": "https://yutaakiyama.github.io/csb-wcb7z/index.html",
+    "static/js/2.dbecf9f3.chunk.js.LICENSE.txt": "https://yutaakiyama.github.io/csb-wcb7z/static/js/2.dbecf9f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f46456de.js",
+    "static/js/2.dbecf9f3.chunk.js",
+    "static/js/main.cdd7d0b4.chunk.js"
+  ]
+}
